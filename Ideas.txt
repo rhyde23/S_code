@@ -1,0 +1,52 @@
+
+
+Team rating = average of all players
+
+
+backend stuff
+
+	team rating calculator
+
+	match sim calculator
+
+	goals randomizer
+
+transfers (value and targets and money)
+	
+	training/potential
+
+	schedule
+
+	standings information in save
+
+Figure out positions and linups and stuff and put that in saves AND TEST EVERYTHING
+
+	when creating save, add all the teams
+
+	fix goalie thing for positions (leno)
+
+finish all of formations and linups (boring)
+
+comment on everything (boring)
+
+clicking sounds
+
+
+
+
+
+frontend stuff
+
+	color in current day
+
+	maybe color covered days
+
+indicate when games are
+
+make loops for every tab
+
+make screen for match sim
+
+mr manager
+
+sim other games
